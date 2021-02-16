@@ -1,0 +1,25 @@
+SEIS 635-1 John Stretch
+Project 1
+
+User Stories:
+
+As a parent, I want to have my child play a fun game using their memory, so that they are actually learning a skill instead of just wasting time.
+
+As a child, I want to have a fun game to play so that I have something other to do besides watch tv.
+
+As an older adult, I need an activity to sharpen my memory, so that I don’t forget where I put my keys.
+
+As a kindergarten teacher, I need an activity for my students that is educational, so they can develop new skills.
+
+As a player of memory games, I want to play a new variation of the classic games, so that I am not bored as I practice memory skills.
+
+As a player of memory games, I want a game that keeps track of high scores, so that I can tell if I’m improving as a player.
+
+As a parent, I need an inexpensive game for my child to play, so that I can manage my budget with all the other costs of parenting.
+
+As a player of memory games, I want to be able use a fun username that kept track of my stats, so that it would be fun to play with others.
+
+As a player of memory games, I want to have a game that other players could play, so that I can play with my friends.
+
+As a teacher, I need a portable memory game, so that my students could practice their memory skills while we travel to and from school activities.
+
